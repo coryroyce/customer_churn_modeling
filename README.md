@@ -13,4 +13,4 @@ Markup : 1. Data Loading
         4. Data Visualization
         5. Model Creation
         
-https://github.com/coryroyce/customer_churn_modeling/blob/main/README.md
+https://github.com/coryroyce/customer_churn_modeling.git
